@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    font-size: small;
+}
+header {
+    text-align: center;
+}
+.paragraph {
+    text-align: center;
+}
+.image {
+    border-radius: 10px;
+}
